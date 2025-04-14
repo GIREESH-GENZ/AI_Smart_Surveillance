@@ -1,0 +1,3 @@
+Name,Status,Image
+Prasanna sai,Hosteller,AP23110011430.jpg
+Pavan,Day Scholar,AP23110011412.jpg
